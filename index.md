@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to OfficeTools
 
 You can use the [editor on GitHub](https://github.com/Victor-Onanubi/office-tools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
